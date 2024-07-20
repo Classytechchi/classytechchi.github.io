@@ -1,3 +1,7 @@
+---
+layout: about
+title: About
+---
 Your Premier Cybersecurity Partner
 At Techchi IT Solutions, we are committed to safeguarding your digital assets with our comprehensive cybersecurity solutions. Our team of seasoned experts is dedicated to protecting your business from the ever-evolving landscape of cyber threats. With a focus on proactive defense and rapid response, we ensure that your organization remains secure and resilient in the face of cyber challenges.
 
